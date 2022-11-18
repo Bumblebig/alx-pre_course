@@ -1,1 +1,1 @@
-This is the seond readme created in this repo as to the instructions
+This is the second README file created in this repo as to the instructions.
